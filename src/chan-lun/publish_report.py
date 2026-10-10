@@ -14,7 +14,7 @@
 """
 import os, sys, json, base64, datetime, urllib.request, urllib.error
 
-OWNER = "autumn-go"
+OWNER = "hami202"
 REPO = "chan-report"
 BASE = os.path.dirname(os.path.abspath(__file__))
 OUT_DIR = os.path.join(BASE, "output")
